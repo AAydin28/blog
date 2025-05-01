@@ -27,5 +27,4 @@ A modern and minimal **Frontend Portfolio** built with **Next.js**, **TailwindCS
 
 ---
 
-## 📂 Folder Structure
 
