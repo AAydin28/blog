@@ -2,8 +2,9 @@ import Hero from "@/components/Hero";
 import Fast from "@/components/Fast";
 import AboutMe from "@/components/AboutMe";
 import Service from "@/components/Service";
-// import Project from "@/components/Project";
-//import Image from "next/image";
+import Project from "@/components/Project";
+import Image from "next/image";
+import Testimonial from "@/components/Testimonial";
 
 export default function Home() {
   return (
@@ -12,7 +13,8 @@ export default function Home() {
       <Fast />
       <AboutMe />
       <Service />
-      {/* <Project /> */}
+      <Project />
+      <Testimonial />
     </div>
   );
 }
