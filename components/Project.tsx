@@ -8,7 +8,7 @@ import {
   Grid,
   Card,
   CardMedia,
-  CardContent,
+  // CardContent,
 } from "@mui/material";
 import { amber } from "@mui/material/colors";
 
