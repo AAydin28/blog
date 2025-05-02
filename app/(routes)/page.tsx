@@ -3,7 +3,7 @@ import Fast from "@/components/Fast";
 import AboutMe from "@/components/AboutMe";
 import Service from "@/components/Service";
 import Project from "@/components/Project";
-import Image from "next/image";
+//import Image from "next/image";
 import Testimonial from "@/components/Testimonial";
 
 export default function Home() {
