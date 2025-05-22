@@ -25,37 +25,37 @@ const projectsData = [
     id: 1,
     category: "Web Design",
     title: "Portfolio Website",
-    imageUrl: "/typescript.png",
+    imageUrl: "/about.JPG",
   },
   {
     id: 2,
     category: "App Design",
     title: "Mobile App UI",
-    imageUrl: "/typescript.png",
+    imageUrl: "/yemek.JPG",
   },
   {
     id: 3,
     category: "Graphic Design",
-    title: "Branding Project",
+    title: "Branding Project Very Soon",
     imageUrl: "/typescript.png",
   },
   {
     id: 4,
-    category: "UI/UX",
+    category: "Web Design",
     title: "Landing Page UX",
-    imageUrl: "/typescript.png",
+    imageUrl: "/web.JPG",
   },
   {
     id: 5,
     category: "UI/UX",
     title: "Landing Page UX",
-    imageUrl: "/typescript.png",
+    imageUrl: "/ürün.JPG",
   },
   {
     id: 6,
     category: "UI/UX",
     title: "Landing Page UX",
-    imageUrl: "/typescript.png",
+    imageUrl: "/sayfa.JPG",
   },
 ];
 
@@ -80,8 +80,8 @@ const Project = () => {
             </Typography>
 
             <Typography variant="body1" sx={{ color: "slategray" }} mt={1}>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque
-              neque blanditiis commodi, eligendi quos minima?
+              Here are some of the projects I ve worked on recently, showcasing
+              my skills in front-end and back-end development.
             </Typography>
           </Box>
 

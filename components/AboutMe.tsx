@@ -14,7 +14,7 @@ const AboutMe = () => {
         <div className="flex">
           <div className="relative w-64 h-64">
             <Image
-              src="/11.jpeg"
+              src="/ChatGPT Image 22 May 2025 03_20_52.png"
               alt="Profile Photo"
               fill
               className="object-cover rounded-full"
@@ -24,15 +24,18 @@ const AboutMe = () => {
         <div className="flex-1">
           <h2 className="text-4xl font-bold mb-4 text-amber-500">About me</h2>
           <p className="mb-6 text-gray-500">
-            Lorem ipsum dolor sit amet consectetur adipisicing. Lorem ipsum
-            dolor sit, amet consectetur adipisicing elit. Soluta minus voluptate
-            adipisci ratione molestiae commodi earum omnis perferendis dolore
-            quisquam!
+            Hi! I m Ahmet Aydın, a Full Stack Developer passionate about
+            building scalable, user-centric web applications. With a strong
+            command of modern technologies like React, Next.js, Node.js, and
+            TypeScript, I specialize in creating seamless front-end experiences
+            and robust back-end systems that work together harmoniously.
           </p>
           <p className="mb-6 text-gray-500">
-            Lorem ipsum dolor sit amet consectetur adipisicing. Lorem ipsum,
-            dolor sit amet consectetur adipisicing elit. Voluptatum qui maxime
-            assumenda quibusdam harum corrupti hic est maiores amet fuga.
+            Beyond just writing code, I focus on clean architecture,
+            maintainable solutions, and delivering high-quality user
+            experiences. I thrive in collaborative environments and am always
+            eager to learn and adapt to new technologies. My goal is to turn
+            creative ideas into impactful digital products.
           </p>
 
           <div className="space-y-6 mt-8">

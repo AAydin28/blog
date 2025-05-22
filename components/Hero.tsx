@@ -30,7 +30,8 @@ const Hero = () => {
             repeat={Infinity}
           />
           <p className="text-gray-400 text-lg mb-6 max-w-md mt-8">
-            Lorem ipsum dolor sit amet consectetur adipisicing.
+            I’m a passionate Full Stack Developer focused on creating clean and
+            efficient digital experiences from front to back.
           </p>
 
           <div>
@@ -43,7 +44,7 @@ const Hero = () => {
         <div className="flex-1 flex flex-col justify-center items-center">
           <div className="relative w-64 h-64 md:w-96 md:h-96">
             <Image
-              src="/11.jpeg"
+              src="/ChatGPT Image 22 May 2025 03_20_52.png"
               alt="Profile Photo"
               fill
               className="object-cover rounded-full"
@@ -60,23 +61,38 @@ const Hero = () => {
                 className="cursor-pointer hover:scale-125 transation-all duration-700"
               />
             </Button>
-            <Button variant="secondary">
+            <Button
+              variant="secondary"
+              className="cursor-pointer hover:scale-125 transation-all duration-700"
+            >
               <AiFillInstagram
                 size={32}
                 className="cursor-pointer hover:scale-125 transation-all duration-700"
               />
             </Button>
-            <Button variant="secondary">
+            <Button
+              variant="secondary"
+              className="cursor-pointer hover:scale-125 transation-all duration-700"
+            >
               <AiFillFacebook
                 size={32}
                 className="cursor-pointer hover:scale-125 transation-all duration-700"
               />
             </Button>
-            <Button variant="secondary">
-              <AiFillLinkedin
-                size={32}
-                className="cursor-pointer hover:scale-125 transation-all duration-700"
-              />
+            <Button
+              variant="secondary"
+              className="cursor-pointer hover:scale-125 transation-all duration-700"
+            >
+              <a
+                href="https://www.linkedin.com/in/ahmet-aydın-36b970268"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillLinkedin
+                  size={32}
+                  className="cursor-pointer hover:scale-125 transation-all duration-700"
+                />
+              </a>
             </Button>
           </div>
         </div>
